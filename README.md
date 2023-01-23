@@ -52,8 +52,12 @@ def max_marks(list1):
     
 ```
 ## Sample Input and Output
-
+# i)
 ![input](./img/max_marks1.jpg) 
+# ii)
+![input](./img/findmaximum2.png)
+# iii)
+![input](./img/findmaximum3.png)
 
 ## Output:
 ![output](./img/find1.png)
