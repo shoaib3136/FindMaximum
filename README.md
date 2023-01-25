@@ -60,6 +60,11 @@ def max_marks(list1):
 ![input](./img/findmaximum3.png)
 
 ## Output:
+# i)
+![output](./img/find1.png)
+# ii)
+![output](./img/find1.png)
+# iii)
 ![output](./img/find1.png)
 
 ## Result:
